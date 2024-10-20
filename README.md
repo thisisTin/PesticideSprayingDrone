@@ -9,13 +9,11 @@ b. Hardware Configuration
 
 
 c. Software Configuration
- c.1: BetaFlight Configuration Software
+c.1: BetaFlight Configuration Software
 
+c.2: Airport Software
 
- c.2: Airport Software
-
-
- c.3: ExpressLRS Software
+c.3: ExpressLRS Software
  
 
 
