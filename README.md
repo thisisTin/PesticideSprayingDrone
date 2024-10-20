@@ -1,18 +1,11 @@
 Hi, my name is Tran Trong Tin, leader of Pesticide Spraying Drone team.
 This repository is belonged to our team.
 This is the manual of how to build and arm this Drone.
+
 1/ Building a drone.
 a. Component:
-- 
-- 
-- 
-- 
-- 
-- 
-b. Hardware Configuration
-- 
-- 
 
+b. Hardware Configuration
 
 
 c. Software Configuration
@@ -26,11 +19,7 @@ c. Software Configuration
  
 
 
-
-
 d. Spraying Mechanism
-
-
 
 
 
