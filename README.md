@@ -3,6 +3,7 @@ This repository is belonged to our team.
 This is the manual of how to build and arm this Drone.
 
 1/ Building a drone.
+
 a. Component:
 
 b. Hardware Configuration
