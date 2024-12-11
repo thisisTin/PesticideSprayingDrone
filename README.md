@@ -9,6 +9,7 @@ b. Hardware Configuration
 
 
 c. Software Configuration
+
 c.1: BetaFlight Configuration Software
 
 c.2: Airport Software
